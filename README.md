@@ -32,6 +32,11 @@ This function checks if a position on the board is empty or already occupied by 
 
 This function checks if there is a winning combination on the board. It examines all possible winning combinations (rows, columns, and diagonals) and returns True if any player has won, and False otherwise.
 
+RESULT:
+
+![IDLE Shell 3 11 1 07-06-2023 23_22_48](https://github.com/saikiran5555/tictactoe/assets/116197365/c3a3cbe0-e862-4186-92df-da12dcc534c8)
+
+
 CONTRIBUTIONS AND FEEDBACKS:
 
 I welcome any contributions, feedback, or suggestions to improve this project. Feel free to submit a pull request or open an issue on GitHub if you have any ideas to enhance the game or spot any issues.
